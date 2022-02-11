@@ -2,6 +2,10 @@
 
 Detection of Electricity Theft using Machine Learning
 
+## Google Colab 
+
+Find link to Google Colab Notebook [here 🔗](https://colab.research.google.com/drive/1Tx7we5al28lCQDQ_jtMM8kui-n_SrZdW?usp=sharing)
+
 ## Dataset 
 
 Find the datasets from : 
